@@ -5,3 +5,9 @@ Objective: Multi-dimensional lists
 @author: jatan.sharma
 """
 
+x = [[2,6],
+     [6,2],
+     [8,2],
+     [5,12]
+     ]
+print(x[2][1])
